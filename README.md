@@ -3,8 +3,10 @@
 ## Integrantes
 
 * Renan Eskildssen – RM 571097
-* Murillo Boyadjian Guimarães – RM 570774
-* Murillo Barros – RM 571528
+* Lucas Barros – RM 571528
+* Kaique da Silva Assis - 572718
+* Vinicius Cristal de Oliveira - RM 572049
+* Andre Debiazzi — RM 569062
 
 # Descrição do Projeto
 
