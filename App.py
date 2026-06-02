@@ -1,6 +1,6 @@
 # Sistema de gerenciamento de energia para estações de carregamento de veículos elétricos
 
-# Feito por Renan Eskildssen (571097), Murillo Boyadjian Guimarães (570774) e Murillo Barros (571528)
+# Renan Eskildssen – RM 571097, Lucas Barros – RM 571528, Kaique da Silva Assis - 572718, Vinicius Cristal de Oliveira - RM 572049, Andre Debiazzi — RM 569062
 
 # Limite máximo de energia disponível
 
